@@ -28,6 +28,7 @@
             </intent-filter>
         </activity>
         
+        <!-- 健康界面 -->
          <activity
             android:name=".HealthActivity"
             android:screenOrientation="portrait">
